@@ -5,7 +5,7 @@ gem "rails", "~> 7.2.2"
 gem "pg", "~> 1.1"
 gem "puma", ">= 5.0"
 gem "bcrypt", "~> 3.1.7"
-gem "secure_headers", "~> 6.5"
+gem "secure_headers", "~> 7.0"
 gem "bootsnap", require: false
 gem "rack-cors"
 gem "rack-attack"
