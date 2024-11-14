@@ -14,7 +14,7 @@ A flexible mock API service that allows you to create and manage mock endpoints 
 
 ### Prerequisites
 
-- Ruby 3.2.2
+- Ruby 3.1.0
 - Rails 7.0+
 - PostgreSQL
 
